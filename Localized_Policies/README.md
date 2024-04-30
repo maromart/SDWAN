@@ -8,7 +8,7 @@ Also, a Localized Policy may content:
   
 This script generates an interactive treemap diagram with D3.js in HTML/JS to visualize the relationships.
 
-Also, you can view the static information in a spreadsheet.
+Also, the script generates a spreadsheet that contains the same information (static).
 
 Note: The python script collects:
 -  Localized Policies information if they were created through vManager wizard
@@ -60,11 +60,15 @@ Initiative and ideas in conjuntion with
 - Lei Tian
 
 ## Acknowledgment
+
+On HTML:
+
 This script was tested with a Localized Policy attached to 103 Device Templates (descendants).
 
 You can expand multiple relationships but it is not advisable to do it,  specially when the parent nodes have a large number of descendants.
 
 Although the HTML window size is adjusted to display all the information, the visualization or navigation experience can be affected and you may apply zoom in/out.
+
 
 
 
