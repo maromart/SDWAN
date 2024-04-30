@@ -28,4 +28,11 @@ Getting device templates...
 - [D3.js](https://d3js.org/)
 
 ## Autors
-- Mario Uriel Romero 
+- Mario Uriel Romero
+
+## Acknowledgment
+
+Initiative and ideas in conjuntion with Lei Tian
+
+
+
