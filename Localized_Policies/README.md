@@ -1,7 +1,7 @@
 # SD-WAN Localized Policies 
 - In Cisco SD-WAN, Localized Policies are attached to a Device Template and a Device Template is attached to a device
-- This script creates an interactive treemap diagram containing therelationships
-- It creates an spreadsheet containing the relationships.
+- This script creates an interactive treemap diagram in HTML/JS and a spreadsheet containing the relationships
+
 
 ## Installation
 - Install requirements.txt
@@ -21,7 +21,8 @@ Token OK...
 Getting device templates...
 ```
 ## Built With
-[D3.js](https://d3js.org/)
+- [Python](https://www.python.org/)
+- [D3.js](https://d3js.org/)
 
 ## Autors
 - Mario Uriel Romero 
