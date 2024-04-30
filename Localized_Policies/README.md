@@ -35,15 +35,17 @@ Getting device templates...
 
 Once the script finishes, you can open the generated spreadsheet and/or HTML file
 
-On HTML, click on any square (node) to expand or collapse.
+- On spreadsheet, go to Localized Policies tab.
 
-If the name of the node  is positioned on the left side, this means it has descendants.
+- On HTML, click on any square (node) to expand or collapse.
 
-Color convention:
+  If the name of the node  is positioned on the left side, this means it has descendants.
 
-- Purple: Localized Policies
-- Green: Device Templates
-- Blue: Devices
+  Color convention:
+
+  - Purple: Localized Policies
+  - Green: Device Templates
+  - Blue: Devices
 
 ## Built With
 - [Python](https://www.python.org/)
