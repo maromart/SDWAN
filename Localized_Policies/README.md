@@ -8,7 +8,7 @@ Also, a Localized Policy may content:
   
 This script generates an interactive treemap diagram with D3.js in HTML/JS to visualize the relationships.
 
-Also,  generates an spreadsheet that contains the same information (static).
+Also,  it generates an spreadsheet that contains the same information (static).
 
 
 ## Installation
