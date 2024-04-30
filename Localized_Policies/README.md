@@ -8,7 +8,7 @@ Also, a Localized Policy may content:
   
 This script generates an interactive treemap diagram with D3.js in HTML/JS to visualize the relationships.
 
-Also, the script generates a spreadsheet that contains the same information (static).
+Also, the script generates an spreadsheet that contains the same information (static).
 
 Note: The python script collects:
 -  Localized Policies information if they were created through vManager wizard
