@@ -48,6 +48,7 @@ Color convention:
 ## Built With
 - [Python](https://www.python.org/)
 - [D3.js](https://d3js.org/)
+- [Javascript](https://www.javascript.com/)
 
 ## Autors
 - Mario Uriel Romero
