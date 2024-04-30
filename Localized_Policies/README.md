@@ -1,7 +1,12 @@
 # SD-WAN Localized Policies 
 In Cisco SD-WAN, a Localized Policy is attached to one or many Device Templates and a Device Template is attached to one or many devices.
 
-This script generates an interactive treemap diagram in HTML/JS and an spreadsheet containing the relationships.
+Also, a Localized Policy may contents
+- QoS Map Scheduler
+- ACL/Access Device List
+- Route Policies
+- 
+This script generates an interactive treemap diagram in HTML/JS and an spreadsheet containing the Localized Policy information and relationships.
 
 Note: The script collects:
 -  Localized Policies information if they were created through vManager wizard
