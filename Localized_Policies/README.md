@@ -9,7 +9,7 @@
 - Internet connection to connect to D3.js source script
 
 ## Usage
-Run csv_values.py
+Run locpol.py
 ```
 Please enter vManager url without https:// <IP or URL with port(optional)>
 username:<Enter username>https://github.com/maromart/SDWAN/pulls
