@@ -64,7 +64,7 @@ This script was tested with 20 and 120 devices.
 
 For a greater number of devices it is advisable to use the spreadsheet file.
 
-The HTML window size is adjusted for a large number of devices, nevertheless, the navigation experience can be affected.
+The HTML window size is adjusted to display all the information, nevertheless the navigation experience can be affected and you may apply zoom in/out.
 
 
 
