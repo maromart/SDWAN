@@ -30,6 +30,9 @@ Getting token...
 Token OK...
 Getting device templates...
 ```
+
+Once the script finishes, you can open the spreadsheet and/or the HTML file
+
 ## Built With
 - [Python](https://www.python.org/)
 - [D3.js](https://d3js.org/)
