@@ -39,13 +39,14 @@ Once the script finishes, you can open the generated spreadsheet and/or HTML fil
 
 - On HTML, click on Localized Policies square (node) to expand or collapse.
 
-  If the name of the node  is positioned on the left side, this means it has descendants.
-
   Color convention:
 
   - Purple: Localized Policies
   - Green: Device Templates
   - Blue: Devices
+
+  If the name of the node  is positioned on the left side, this means it has descendants.
+
 
 ## Built With
 - [Python](https://www.python.org/)
