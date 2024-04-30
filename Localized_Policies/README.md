@@ -60,9 +60,7 @@ Initiative and ideas in conjuntion with
 - Lei Tian
 
 ## Acknowledgment
-This script was tested with 20 and 120 devices.
-
-For a greater number of devices it is advisable to use the spreadsheet file.
+This script was tested with 20 and 500 devices.
 
 The HTML window size is adjusted to display all the information, nevertheless, the navigation experience can be affected and you may apply zoom in/out.
 
