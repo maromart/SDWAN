@@ -60,9 +60,11 @@ Initiative and ideas in conjuntion with
 - Lei Tian
 
 ## Acknowledgment
-This script was tested with 125 Device Templates and 500 devices.
+This script was tested with a Localized Policy attached to 103 Device Templates (descendants).
 
-The HTML window size is adjusted to display all the information, nevertheless, the navigation experience can be affected and you may apply zoom in/out.
+You can expand multiple relationships but it is not advisable to do it,  specially when the parent nodes have a large number of descendants.
+
+The HTML window size is adjusted to display all the information, nevertheless, the visualization or navigation experience can be affected and you may apply zoom in/out.
 
 
 
