@@ -17,7 +17,7 @@ Note: The script collects:
 Run locpol.py
 ```
 Please enter vManager url without https:// <IP or URL with port(optional)>
-username:<Enter username>https://github.com/maromart/SDWAN/pulls
+username:<Enter username>
 Password:<Enter password>
 Getting session cookie...
 OK...
