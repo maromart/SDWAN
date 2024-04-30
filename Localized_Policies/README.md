@@ -6,7 +6,7 @@ Also, a Localized Policy may content:
 - ACL/Access Device List
 - Route Policies
   
-This script generates an interactive treemap diagram in HTML/JS and an spreadsheet containing the Localized Policy information and relationships.
+This script generates an interactive treemap diagram with D3.js in HTML/JS and an spreadsheet containing the Localized Policy information and relationships.
 
 Note: The script collects:
 -  Localized Policies information if they were created through vManager wizard
