@@ -10,10 +10,6 @@ This script generates an interactive treemap diagram with D3.js in HTML/JS to vi
 
 Also, the script generates an spreadsheet that contains the same information (static).
 
-Note: The python script collects:
--  Localized Policies information if they were created through vManager wizard
--  Device Templates and Devices information if they are in vManage mode
-
 
 ## Installation
 - Install requirements.txt
@@ -68,6 +64,12 @@ This script was tested with a Localized Policy attached to 103 Device Templates 
 You can expand multiple relationships but it is not advisable to do it,  specially when the parent nodes have a large number of descendants.
 
 Although the HTML window size is adjusted to display all the information, the visualization or navigation experience can be affected and you may zoom in/out.
+
+The python script collects:
+
+-  Localized Policies information if they were created through vManager wizard
+-  Device Templates and Devices information if they are in vManage mode
+
 
 
 
