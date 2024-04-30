@@ -32,7 +32,8 @@ Getting device templates...
 
 ## Acknowledgment
 
-Initiative and ideas in conjuntion with Lei Tian
+Initiative and ideas in conjuntion with
+- Lei Tian
 
 
 
