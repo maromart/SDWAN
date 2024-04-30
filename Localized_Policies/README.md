@@ -56,10 +56,15 @@ Once the script finishes, you can open the generated spreadsheet and/or HTML fil
 ## Autors
 - Mario Uriel Romero
 
-## Acknowledgment
-
 Initiative and ideas in conjuntion with
 - Lei Tian
+
+## Acknowledgment
+This script was tested with 20 and 120 devices.
+The HTML window size is adjusted for a large number of devices, nevertheless, the navigation experience can be affected.
+
+
+
 
 
 
