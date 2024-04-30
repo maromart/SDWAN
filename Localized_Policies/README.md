@@ -37,7 +37,7 @@ Once the script finishes, you can open the generated spreadsheet and/or HTML fil
 
 - On spreadsheet, go to Localized Policies tab.
 
-- On HTML, click on any square (node) to expand or collapse.
+- On HTML, click on Localized Policies square (node) to expand or collapse.
 
   If the name of the node  is positioned on the left side, this means it has descendants.
 
