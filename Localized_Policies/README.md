@@ -60,7 +60,7 @@ Initiative and ideas in conjuntion with
 - Lei Tian
 
 ## Acknowledgment
-This script was tested with 20 and 500 devices.
+This script was tested with 125 Device Templates and 500 devices.
 
 The HTML window size is adjusted to display all the information, nevertheless, the navigation experience can be affected and you may apply zoom in/out.
 
