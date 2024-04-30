@@ -10,7 +10,7 @@ This script generates an interactive treemap diagram with D3.js in HTML/JS to vi
 
 Also, you can view the static information in a spreadsheet.
 
-Note: The script collects:
+Note: The python script collects:
 -  Localized Policies information if they were created through vManager wizard
 -  Device Templates and Devices information if they are in vManage mode
 
