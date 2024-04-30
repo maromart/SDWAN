@@ -31,7 +31,7 @@ Token OK...
 Getting device templates...
 ```
 
-Once the script finishes, you can open the spreadsheet and/or the HTML file
+Once the script finishes, you can open the generated spreadsheet and/or the HTML file
 
 ## Built With
 - [Python](https://www.python.org/)
