@@ -33,6 +33,16 @@ Getting device templates...
 
 Once the script finishes, you can open the generated spreadsheet and/or HTML file
 
+On HTML, click on any square (node) to expand or collapse.
+
+If the name of the node  is positioned on the left side, this means it has descendants.
+
+Color convention:
+
+- Purple: Localized Policies
+- Green: Device Templates
+- Blue: Devices
+
 ## Built With
 - [Python](https://www.python.org/)
 - [D3.js](https://d3js.org/)
