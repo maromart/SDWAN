@@ -33,7 +33,9 @@ Once the script finishes, you can open the generated spreadsheet and/or HTML fil
 
 - On spreadsheet, go to Localized Policies tab.
 
-- On HTML, click on Localized Policies square (node) to expand or collapse.
+- On HTML:
+  -  click on Localized Policies square (node) to expand or collapse.
+  -  Mouse over names displays a sidebar to visualize additional information for Localized Policies and devices
 
   Color convention:
 
